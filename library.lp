@@ -3,7 +3,7 @@
  (description "Interconnect, Audio, Thermal Management, Motion, and Sensor solutions (unofficial).")
  (keywords "cui,cui devices,cui inc")
  (author "LibrePCB")
- (version "0.2.4")
+ (version "0.2.5")
  (created 2019-11-06T22:36:44Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/CUI_Devices.lplib")
