@@ -1,9 +1,9 @@
 (librepcb_package f8dc5f6e-37a1-423a-b9a4-9001043d62af
- (name "CUI_UJC-HP-3-SMT-TR")
+ (name "SAMESKY_UJC-HP-3-SMT-TR")
  (description "Type C, 3 A, Right Angle, Surface Mount (SMT), Power Only 6-Pin USB Receptacle")
  (keywords "usb,type-c,power-only")
  (author "Danilo Bargen")
- (version "0.3.1")
+ (version "0.3.2")
  (created 2020-06-06T23:27:17Z)
  (deprecated false)
  (generated_by "")

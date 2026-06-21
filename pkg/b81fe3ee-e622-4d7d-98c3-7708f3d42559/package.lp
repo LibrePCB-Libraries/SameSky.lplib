@@ -1,9 +1,9 @@
 (librepcb_package b81fe3ee-e622-4d7d-98c3-7708f3d42559
- (name "CUI_PJ-037A[H]")
+ (name "SAMESKY_PJ-037A[H]")
  (description "DC power jack 2.0/5.5mm.\n\nNote: Pad sizes smaller than in datasheet because it was too loose.")
  (keywords "barrel,power,jack")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-10-05T14:34:41Z)
  (deprecated false)
  (generated_by "")
