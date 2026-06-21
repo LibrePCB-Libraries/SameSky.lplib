@@ -6,7 +6,7 @@
  (version "0.2.5")
  (created 2019-11-06T22:36:44Z)
  (deprecated false)
- (url "https://github.com/LibrePCB-Libraries/CUI_Devices.lplib")
+ (url "https://github.com/LibrePCB-Libraries/SameSky.lplib")
  (dependency 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
  (manufacturer "Same Sky")
