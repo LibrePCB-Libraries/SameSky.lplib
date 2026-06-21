@@ -1,9 +1,9 @@
 (librepcb_package d2d35d5f-75e1-4f1d-a6dc-002d79bd70f0
- (name "CUI_CSS-I4B20-SMT-TR")
+ (name "SAMESKY_CSS-I4B20-SMT-TR")
  (description "Magnetic buzzer SMT 8.5x8.5mm\n\nNote: Dimension increased to 8.7x8.7mm based on measurements of the real package.")
  (keywords "buzzer,piezo,speaker")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2024-07-01T14:51:14Z)
  (deprecated false)
  (generated_by "")
