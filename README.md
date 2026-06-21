@@ -1,8 +1,8 @@
-# CUI Devices
+# Same Sky (formerly CUI Devices)
 
 ## Description
 
-Interconnect, Audio, Thermal Management, Motion, and Sensor solutions by CUI Devices (unofficial).
+Interconnect, Audio, Thermal Management, Motion, and Sensor solutions by Same Sky (unofficial).
 
 ## License
 
